@@ -21,6 +21,22 @@
        "api": "https://jszyapi.com/api.php/provide/vod",   
 	   "name": "急速资源"
     },
+	      "ryzy": {
+       "api": "http://cj.rycjapi.com/api.php/provide/vod/",
+       "name": "如意资源"
+    },
+    "jszy": {
+        "api": "https://jszyapi.com/api.php/provide/vod/",
+        "name": "极速资源"
+    },
+    "dytt": {
+      "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/",
+      "name": "电影天堂资源"
+    },
+    "tyzy": {
+      "api": "https://tyyszy.com/api.php/provide/vod/",
+      "name": "天涯资源"
+    },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
