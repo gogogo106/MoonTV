@@ -21,7 +21,7 @@
        "api": "https://jszyapi.com/api.php/provide/vod",   
 	   "name": "急速资源"
     },
-	      "ryzy": {
+   "ryzy": {
        "api": "http://cj.rycjapi.com/api.php/provide/vod/",
        "name": "如意资源"
     },
@@ -37,7 +37,7 @@
       "api": "https://tyyszy.com/api.php/provide/vod/",
       "name": "天涯资源"
     },
-	      "bfzy": {
+	"bfzy": {
       "api": "https://bfzyapi.com/api.php/provide/vod/",
       "name": "暴风资源"
     },
