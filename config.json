@@ -58,10 +58,6 @@
       "name": "魔都资源"
     },
 
-    "baidu": {
-      "api": "https://api.apibdzy.com/api.php/provide/vod/",
-      "name": "百度云资源"
-    },
     "wjzy": {
       "api": "https://api.wujinapi.me/api.php/provide/vod/",
       "name": "无尽资源"
