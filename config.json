@@ -57,10 +57,6 @@
       "api": "https://www.mdzyapi.com/api.php/provide/vod/",
       "name": "魔都资源"
     },
-    "wwdj": {
-      "api": "https://wwzy.tv/api.php/provide/vod/",
-      "name": "旺旺短剧"
-    },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
