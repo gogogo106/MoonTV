@@ -57,11 +57,6 @@
       "api": "https://www.mdzyapi.com/api.php/provide/vod/",
       "name": "魔都资源"
     },
-
-    "wjzy": {
-      "api": "https://api.wujinapi.me/api.php/provide/vod/",
-      "name": "无尽资源"
-    },
     "wwdj": {
       "api": "https://wwzy.tv/api.php/provide/vod/",
       "name": "旺旺短剧"
