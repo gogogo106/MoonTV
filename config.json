@@ -57,7 +57,7 @@
       "api": "https://www.mdzyapi.com/api.php/provide/vod/",
       "name": "魔都资源"
     },
-	      "zdzy": {
+	"zdzy": {
       "api": "https://api.zuidapi.com/api.php/provide/vod/",
       "name": "最大资源"
     },
