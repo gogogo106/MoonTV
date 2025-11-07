@@ -4,6 +4,10 @@
     "hhzy": {
       "api": "https://hhzyapi.com/api.php/provide/vod/",     
 	  "name": "豪华资源"
+    },
+    "sn": {
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod",  
+	  "name": "索尼-闪电资源"
     }
   }
 }
