@@ -8,6 +8,18 @@
     "sn": {
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",  
 	  "name": "索尼-闪电资源"
+    },
+    "ffzy": {
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod",   
+	  "name": "非凡资源"
+    },
+    "sbzy": {
+      "api": "https://subocaiji.com/api.php/provide/vod",  
+	  "name": "速博资源"
+    },
+    "jszy": {
+       "api": "https://jszyapi.com/api.php/provide/vod",   
+	   "name": "急速资源"
     }
   }
 }
